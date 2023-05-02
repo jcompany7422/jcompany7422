@@ -22,3 +22,32 @@
 ### 교육사업
 📚 IT 분야에서 요구되는 역량을 보유한 인력을 양성하기 위한 교육사업을 진행합니다.  
 👩‍🏫 전문적인 강사진이 고객의 요구에 따라 최적의 교육과정을 제공합니다.  
+
+***
+
+# CEO 소개
+## 🕴🏻 기본정보
+ - 이름: 김지훈
+ - 직무: CEO, IT 컨설팅, PM/PL, AA, DevOps
+ - 이메일: jcompany7422@gmail.com
+
+## 🧑🏻‍🎓 학력
+ - 방송통신대학교 컴퓨터과학과 학사 졸업
+ - 아주대 IT융합대학원 정보전자과 석사 졸업
+
+## 💼 이력
+ - 전) 대한민국육군 통신병과  중사
+ - 전) 옵티멀 S/W개발 연구소 주임, 리그시스템 S/W개발 대리
+ - 전) 제이컴퍼니 CEO(KT, Polaris Share 등 개발 프로젝트 참여)
+ - 현) KT DS S/W개발
+   - KT IT 인프라 자동화를 위한 IaC 강사 활동
+   - IT 인프라 복합장애 판단 자동화 프로젝트 (PM/PL)
+   - IT 보안형상 수집 자동화 솔루션 프로젝트 참여 (PM)
+
+## 🪪 자격증
+ - 정보처리기사
+ - 네트워크전문가 2급
+
+## 📑 논문 
+ - [Device unique identifier을 이용한 IP Camera 인증 보안](https://dspace.ajou.ac.kr/handle/2018.oak/14980), 아주대학교 IT융합대학원 석사논문 2019.02 저자
+ - [Peer to Peer 전력시장에서 프로슈머와 소비자의 수익 최대화를 위한 거래매칭 알고리즘](http://www.riss.or.kr/search/detail/DetailView.do?p_mat_type=1a0202e37d52c72d&control_no=dfa5a8293b222cbee9810257f7042666&keyword=), 대한전기학회 학술대회 논문집 2019.7 저자
